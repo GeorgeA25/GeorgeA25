@@ -50,6 +50,7 @@ Room Planner App
 A group project for a room planner application using React and Babylon.js for the frontend and Firebase for the backend. Users can log in, register a new account or view the page as a Guest, Create new rooms based off of dimensions and budget that the user wants and displays a 3d room with suggestive packages based off their dimensions and also a catalog of furniture to where a user can design a room layout with furniture. User can save their layouts which will then appear on the homepage to view and update whenever they want. All user data with all the rooms they've created will be stored on Firebase.
 
 
+Link:https://interiyours-project.netlify.app/
 
 ---
 
