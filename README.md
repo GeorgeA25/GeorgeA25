@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm George, a novice web developer whos coding courses to get into the world of tech and to improve as a developer by working on projects to develop my skills and also to use new tech stacks to brorden my knowldege. 
+I'm George, a novice web developer whos been doing coding courses to get into the world of tech and to improve as a developer by working on projects to develop my skills and also to use new tech stacks to brorden my knowldege. 
 
 ---
 
