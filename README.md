@@ -57,7 +57,7 @@ Link:https://interiyours-project.netlify.app/
 📫 Contact Info
 Feel free to reach out to me through the following:
 
-LinkedIn: https://www.linkedin.com/in/george-asteriades-0b503b322/
+LinkedIn: https://www.linkedin.com/in/george-asteriades/
 
 ---
 
