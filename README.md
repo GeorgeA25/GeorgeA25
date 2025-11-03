@@ -13,6 +13,8 @@ JavaScript,
 
 Python,
 
+---
+
 Frontend:
 
 React (with Vite),
@@ -21,6 +23,8 @@ HTML/CSS,
 
 Babylon.js,
 
+---
+
 Backend:
 
 Firebase ,
@@ -28,6 +32,8 @@ Firebase ,
 Node.js with Express.js,
 
 PostgreSQL,
+
+---
 
 Other Tools:
 
