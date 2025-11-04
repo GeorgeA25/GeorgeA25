@@ -58,6 +58,13 @@ A group project for a room planner application using React and Babylon.js for th
 
 Link:https://interiyours-project.netlify.app/
 
+To-Do App
+
+An interactive to-do-list app project I did on the Codenation bootcamp that lets you edit/add/checkoff/removes tasks from the to-do-list with data stored on SQLLite for real time updates.
+
+
+Link:https://to-do-app-y6l9.onrender.com/
+
 ---
 
 📫 Contact Info
