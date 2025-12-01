@@ -65,6 +65,12 @@ An interactive to-do-list app project I did on the Codenation bootcamp that lets
 
 Link:https://to-do-app-y6l9.onrender.com/
 
+EVNT5
+
+A event planner app creating an account as a user or staff member, staff can create, edit and delete events whilst users can view a list of events and filter through them based on event type. Users can also sign upto events where they'll recieve a confirmation email whilst also being able to add that event to their Google calendar.
+
+Link:https://evnt5-97cf1.firebaseapp.com/
+
 ---
 
 📫 Contact Info
