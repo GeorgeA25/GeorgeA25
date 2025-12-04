@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm George, a junior software developer who's been doing coding courses to get into the world of tech and to improve as a developer by working on projects to apply ths skills I learned and apply them to making real-world applications. 
+I'm George, a junior software developer who's been doing coding bootcamps to get into the world of tech and to improve as a developer by working on projects to apply ths skills I learned and apply them to making real-world applications. 
 
 ---
 
@@ -81,5 +81,5 @@ LinkedIn: https://www.linkedin.com/in/george-asteriades/
 ---
 
 ⚡ Fun Fact:
-When I’m not coding, you can find me exploring the great outdoors, hiking, playing sports, or Listening to podcasts
+When I’m not coding, you can find me exploring the great outdoors, hiking, playing sports, or listening to podcasts
 
