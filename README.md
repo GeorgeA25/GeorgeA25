@@ -23,6 +23,10 @@ HTML/CSS,
 
 Babylon.js,
 
+Three.js,
+
+Next.js
+
 ---
 
 Backend:
@@ -32,6 +36,10 @@ Firebase ,
 Node.js with Express.js,
 
 PostgreSQL,
+
+Flask,
+
+SQLAlchemy
 
 ---
 
