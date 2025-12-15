@@ -49,6 +49,12 @@ Git & GitHub for version control,
 
 RESTful API design,
 
+Express.JS,
+
+EmailJS,
+
+Stripe(Software)
+
 ---
 
 🌟 Projects
