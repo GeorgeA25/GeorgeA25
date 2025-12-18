@@ -95,5 +95,5 @@ LinkedIn: https://www.linkedin.com/in/george-asteriades/
 ---
 
 ⚡ Fun Fact:
-When I’m not coding, you can find me exploring the great outdoors, hiking, playing sports, or listening to podcasts
+When I’m not coding, you can find me exploring the great outdoors, hiking, playing sports, or listening to podcasts.
 
