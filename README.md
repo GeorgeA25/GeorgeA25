@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 I'm George, a junior software developer who's been doing coding bootcamps to get into the world of tech and to improve as a developer by working on projects to apply ths skills I learned and apply them to making real-world applications. 
 
@@ -39,10 +39,9 @@ I'm George, a junior software developer who's been doing coding bootcamps to get
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![EmailJS](https://img.shields.io/badge/EmailJS-FF4500?style=for-the-badge&logo=email.js&logoColor=white)
 
-
 ---
 
-🌟 Projects
+# 🌟 Projects
 
 NC News
 
@@ -72,13 +71,13 @@ Link:https://evnt5-97cf1.firebaseapp.com/
 
 ---
 
-📫 Contact Info
+# 📫 Contact Info
 Feel free to reach out to me through the following:
 
 LinkedIn: https://www.linkedin.com/in/george-asteriades/
 
 ---
 
-⚡ Fun Fact:
+# ⚡ Fun Fact
 When I’m not coding, you can find me exploring the great outdoors, hiking, playing sports, or listening to podcasts.
 
