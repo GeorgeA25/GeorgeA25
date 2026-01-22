@@ -4,56 +4,41 @@ I'm George, a junior software developer who's been doing coding bootcamps to get
 
 ---
 
-💻 Tech Stack
-Here are some technologies I’ve worked with:
+# 💻 My Tech Stack
 
-Languages: 
-
-JavaScript,
-
-Python,
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-Frontend:
-
-React (with Vite),
-
-HTML/CSS,
-
-Babylon.js,
-
-Three.js,
-
-Next.js
+## Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Babylon.js](https://img.shields.io/badge/Babylon.js-0083C9?style=for-the-badge&logo=babylon.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-Backend:
-
-Firebase ,
-
-Node.js with Express.js,
-
-PostgreSQL,
-
-Flask,
-
-SQLAlchemy
+## Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ---
 
-Other Tools:
+## Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-FF4500?style=for-the-badge&logo=email.js&logoColor=white)
 
-Git & GitHub for version control,
-
-RESTful API design,
-
-Express.JS,
-
-EmailJS,
-
-Stripe(Software)
 
 ---
 
