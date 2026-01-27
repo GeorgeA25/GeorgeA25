@@ -76,6 +76,8 @@ Feel free to reach out to me through the following:
 
 LinkedIn: https://www.linkedin.com/in/george-asteriades/
 
+Portfolio: https://gaportfolio-page.vercel.app/
+
 ---
 
 # ⚡ Fun Fact
