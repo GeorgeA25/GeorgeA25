@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm George, a junior software developer who's been doing coding bootcamps to get into the world of tech and to improve as a developer by working on projects to apply ths skills I learned and apply them to making real-world applications. 
+I'm George, a junior software developer that's completed coding bootcamps in Python and Javascript which invloved learning the fundamentals of both languages and to apply those into creating full-stack applications. I am now looking to get into the world of developing where I can take the knowledge I have and apply those to future projects. 
 
 ---
 
