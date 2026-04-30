@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm George, a junior software developer that's completed coding bootcamps in Python and Javascript which invloved learning the fundamentals of both languages and to apply those into creating full-stack applications. I am now looking to get into the world of developing where I can take the knowledge I have and apply those to future projects. 
+I'm George, a junior software developer that's completed coding bootcamps in Python and Javascript which invloved learning the fundamentals of both languages and apply those fundamentals into creating full-stack applications. I am now looking to get into the world of developing where I can take the knowledge I have and apply those to future projects. 
 
 ---
 
